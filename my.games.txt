@@ -1,0 +1,17 @@
+support.my.games
+www.my.games
+jugger.my.games
+stage.my.games
+static.my.games
+allods.my.games
+cb.my.games
+warofdragons.my.games
+aoc.my.games
+gc.my.games
+gm2.my.games
+dwar.my.games
+stand.cb.my.games
+api.my.games
+cfire.my.games
+3k.my.games
+test.dwar.my.games
